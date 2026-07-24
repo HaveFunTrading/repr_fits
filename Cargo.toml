@@ -1,0 +1,20 @@
+[package]
+name = "repr_fits"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Compile-time bit-width checks for enum discriminants."
+readme = "./README.md"
+documentation = "https://docs.rs/repr_fits"
+repository = "https://github.com/HaveFunTrading/repr_fits"
+keywords = ["enum", "repr", "discriminant", "bits", "macro"]
+categories = ["development-tools::procedural-macro-helpers", "rust-patterns"]
+rust-version = "1.85.0"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+proc-macro2 = "1"
+quote = "1"
+syn = { version = "2", features = ["full"] }
