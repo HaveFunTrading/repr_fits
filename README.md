@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/github/actions/workflow/status/HaveFunTrading/repr_fits/rust.yml)](https://actions-badge.atrox.dev/havefuntrading/repr_fits/goto?ref=main)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/HaveFunTrading/repr_fits/rust.yml)](https://github.com/HaveFunTrading/repr_fits/actions/workflows/rust.yml)
 [![Crates.io](https://img.shields.io/crates/v/repr_fits.svg)](https://crates.io/crates/repr_fits)
 [![Documentation](https://docs.rs/repr_fits/badge.svg)](https://docs.rs/repr_fits/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
